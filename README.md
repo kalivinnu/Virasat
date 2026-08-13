@@ -9,7 +9,7 @@ An immersive digital archive of India's forgotten stories, unsung heroes, and li
 ## 📌 Submission Links (Event Requirements)
 
 ### 🌐 Live Deployed Project
-**Published Website:** https://virasat.vercel.app
+**Published Website:** https://virasat-rho.vercel.app/
 
 ### 🌐 GitHub Repository  
 **Repository Link:** https://github.com/kalivinnu/Virasat
@@ -163,23 +163,7 @@ git push origin main
 git pull origin main
 ```
 
-### Branching (for team collaboration)
-```bash
-# Create new branch
-git checkout -b feature/your-feature-name
 
-# Switch between branches
-git checkout branch-name
-
-# List all branches
-git branch -a
-
-# Push branch to remote
-git push origin feature/your-feature-name
-
-# Create Pull Request (on GitHub)
-# Then merge after review
-```
 
 ### Useful Commands
 ```bash
@@ -468,7 +452,7 @@ This project is provided as-is for educational and demonstration purposes.
 **Project Name:** Virasat — India's Forgotten History  
 **Creator:** Kalvin (kalivinnu)  
 **Repository:** https://github.com/kalivinnu/Virasat  
-**Live URL:** https://virasat.vercel.app  
+**Live URL:** https://virasat-rho.vercel.app/
 **Status:** ✅ Live & Functional  
 
 ---
